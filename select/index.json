@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏に、落ちた。",
+  "base_artist": "K1M1",
+  "createdAt": "2025-12-05T13:38:14.056521Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏に、落ちた。",
+      "artist": "K1M1",
+      "has_synced": false,
+      "path": "select/pl_01_夏に、落ちた。_K1M1.txt"
+    }
+  ]
+}
